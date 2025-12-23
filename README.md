@@ -3,8 +3,11 @@ Mô hình chỉnh sửa lỗi sai(autocorrect) sử dụng mô hình BARTPho-syl
 
 # Thành viên
 A49616 - Vũ Anh Tuấn
+
 A49721 - Phạm Việt Quang
+
 A50677 - Lê Quang Khải
+
 A49828 - Nguyễn Hồng Sơn
 
 # Evaluate
